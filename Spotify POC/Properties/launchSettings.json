@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Spotify POC": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SpotifyClientId": "3591641179c14f67b817339112ee0ac0",
+        "SpotifyClientSecret": "8f89fafb59db432eaae500e415acec13"
+      }
+    }
+  }
+}
